@@ -1,3 +1,4 @@
+package com.stega;
 public class Stega {
 
 	public static void main(String[] args) {
